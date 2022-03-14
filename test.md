@@ -2,10 +2,7 @@ Prvni
 Druhy
 Treti
 Ctvrty
-Paty
-Sesty
-Sedmy
-osm
+5678
 devaty
 Albánský vir 🦖
 eleven
