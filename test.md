@@ -5,3 +5,4 @@ Ctvrty
 Paty
 Sesty
 Sedmy
+osm
