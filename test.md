@@ -6,3 +6,4 @@ Paty
 Sesty
 Sedmy
 osm
+devaty
