@@ -7,3 +7,4 @@ Sesty
 Sedmy
 osm
 devaty
+deset10
