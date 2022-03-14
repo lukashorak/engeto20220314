@@ -1,8 +1,5 @@
 Prvni
-Druhy
-Treti
-Ctvrty
-5678
+2345678
 devaty
 Albánský vir 🦖
 eleven
