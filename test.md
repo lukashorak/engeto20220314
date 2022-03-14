@@ -7,4 +7,4 @@ Sesty
 Sedmy
 osm
 devaty
-Albánský vir
+Albánský vir 🦖
