@@ -1,10 +1,5 @@
 Prvni
-Druhy
-Treti
-Ctvrty
-Paty
-Sesty
-Sedmy
+234567
 osm
 devaty
 Albánský vir 🦖
