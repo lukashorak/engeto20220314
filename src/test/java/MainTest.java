@@ -8,24 +8,16 @@ public class MainTest {
     public void testSumOk(){
 
         Main main = new Main();
-        main.sum(2, 5);
+        main.sum(2,5);
         //throw new RuntimeException("Chyba");
-        assertEquals(7, main.sum(2, 5));
-
+       assertEquals(7,main.sum(2,5));
     }
 
     @Test
     public void testSumFail(){
-
         Main main = new Main();
-        main.sum(2, 5);
-        assertEquals(8, main.sum(2, 6));
-    }
+        main.sum(2,5);
+        assertEquals(8,main.sum(2,6));
 
-    @Test
-    public void testSumError(){
-        Main main = new Main();
-        assertEquals(8, main.sum(2, 6));
     }
-
 }
