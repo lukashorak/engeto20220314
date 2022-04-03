@@ -1,0 +1,2 @@
+jedna, tri, dva
+jeste jeden radek
